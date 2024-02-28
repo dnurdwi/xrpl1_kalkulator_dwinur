@@ -1,0 +1,23 @@
+.textarea{
+    height: 30px;
+    width: 100%;
+    border-radius: 20px;
+
+}
+.button{
+    position: 20px;
+    height: 50px;
+    width: 50px;
+    background: yellowgreen;
+    background-color: wheat;
+    border-radius: 20px;
+    margin: 2px;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    text-align: center;
+}
